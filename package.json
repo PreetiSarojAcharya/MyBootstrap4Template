@@ -1,0 +1,19 @@
+{
+  "name": "mybootstrap4template",
+  "version": "1.0.0",
+  "description": "My first Bootstrap4 Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreetiSarojAcharya/MyBootstrap4Template.git"
+  },
+  "author": "Preeti Saroj Acharya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PreetiSarojAcharya/MyBootstrap4Template/issues"
+  },
+  "homepage": "https://github.com/PreetiSarojAcharya/MyBootstrap4Template#readme"
+}
